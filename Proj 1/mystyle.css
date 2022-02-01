@@ -1,0 +1,31 @@
+h1{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 30px;
+
+}
+h2{
+    background-color: #d1cfe2;
+    font-size: 35px;
+    text-align: Left;
+    width: 200px;
+    text-transform: uppercase;
+}
+h3{
+    background-color: #7ec4cf;
+    font-size: 20;
+    color: rgb(7, 7, 7);
+    width: 200px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.text{
+    line-height: 2;
+    font-size: 18px;
+    width: 80%;
+    text-transform: none;
+    background-color: white;
+}
